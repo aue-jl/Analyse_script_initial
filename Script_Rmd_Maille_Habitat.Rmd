@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE, message=F,warning=F)
 
 
 <br>
-
+Test
 Ce rapport au format HTML a été généré à l'aide de R Markdown.  
 L'ensemble des fichiers sources se trouve sur Github à l'adresse suivante : [https://github.com/Chimeglia/Etude_Maille_Habitat/tree/main](https://github.com/Chimeglia/Etude_Maille_Habitat/tree/main)  
 
